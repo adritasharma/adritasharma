@@ -6,7 +6,7 @@ I have extensive experience in designing and building highly scalable and stable
 
 # **Languages and Tools I'm familiar with**✔
 
-## **Backend **
+## **Backend**
 
 - ASP.NET( MVC | WebAPI | Core )
 - C#
@@ -27,7 +27,7 @@ I have extensive experience in designing and building highly scalable and stable
 
 </br>
 
-## **DataBase** **
+## **DataBase** 
 
 - MS SQL Server
 - MySQL
