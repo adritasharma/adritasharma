@@ -9,13 +9,15 @@
  </p>
  
  <p align="center">
-<a href="https://www.linkedin.com/in/adritasharma/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/7603109/adrita-sharma" target="blank"><img align="center" src="http://logo.clearbit.com/stackoverflow.com" alt="stackoverflow" height="40" width="50" /></a>
- <a href = "mailto: adritasharma.developer@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
+   <a href="https://www.linkedin.com/in/adritasharma/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+   <a href="https://stackoverflow.com/users/7603109/adrita-sharma" target="blank"><img align="center" src="http://logo.clearbit.com/stackoverflow.com" alt="stackoverflow" height="40" width="50" /></a>
+   <a href = "mailto: adritasharma.developer@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-[![adritasharma's github stats](https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/adritasharma/github-readme-stats)
+ <p align=center>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adritasharma&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+ </p>
  
  <br>
  
