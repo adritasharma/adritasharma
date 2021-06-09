@@ -14,10 +14,12 @@
  <a href = "mailto: adritasharma.developer@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
- 
 
 [![adritasharma's github stats](https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/adritasharma/github-readme-stats)
  
+ 
+  
+<a href="https://stackoverflow.com/users/7603109/adrita-sharma"><img src="https://stackoverflow.com/users/flair/7603109.png" width="208" height="58" alt="profile for Adrita Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adrita Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 # **My Tech Stack** 💻
 
