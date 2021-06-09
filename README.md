@@ -7,7 +7,7 @@ I have extensive experience in designing and building highly scalable and stable
 [![adritasharma's github stats](https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/adritasharma/github-readme-stats)
 
 
-# ** I've worked with** ✔
+# **I've worked with** ✔
 
 ## **Backend**
 
