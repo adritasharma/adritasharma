@@ -19,9 +19,9 @@
 [![adritasharma's github stats](https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/adritasharma/github-readme-stats)
  
 
-# **I've worked with** ✔
+# **My Tech Stack** 💻
 
-## **Backend**
+## ✔ **Backend**
 
 - ASP.NET( MVC | WebAPI | Core )
 - C#
@@ -29,7 +29,7 @@
 - LINQ
 - NodeJS
 
-## **Frontend**
+## ✔ **Frontend**
 
 - Angular
 - TypeScript
@@ -42,25 +42,24 @@
 
 </br>
 
-## **DataBase** 
+## ✔ **DataBase** 
 
 - MS SQL Server
 - MySQL
 - FireBase
 
 
-## **Version Control Tools** 
+## ✔ **Version Control Tools** 
 
 - GIT
 - SVN
 
 
-## **Project Development Tools** 
+## ✔ **Project Development Tools** 
 
 - Bitbucket
 - GitHub
 - GitLab
-
 - JIRA
 - Confluence
 - Trello
