@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Full-Stack Software Engineer enthusiastic and passionate about coding. I am a self motivated person, love to write codes professionally, as well as a hobby.I    have extensive experience in designing and building highly scalable and stable web applications by implementing REST APIs and interactive UI.   
+    Hello, I'm Full-Stack Software Engineer enthusiastic and passionate about coding. I am a self motivated person, love to write codes professionally, as well as a hobby.I    have extensive experience in designing and building highly scalable and stable web applications by implementing REST APIs and interactive UI.   
  </em>
  </p>
  
@@ -17,9 +17,17 @@
 
 [![adritasharma's github stats](https://github-readme-stats.vercel.app/api?username=adritasharma&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/adritasharma/github-readme-stats)
  
+ <br>
  
+ <em>
+  I'm active member in Stack Overflow with 18K+ Reputation and 700+ answers. I enjoy helping others and contribute to the community and learn neat new tricks along the way.
+ </em>
+
+ <p align="center">
   
 <a href="https://stackoverflow.com/users/7603109/adrita-sharma"><img src="https://stackoverflow.com/users/flair/7603109.png" width="208" height="58" alt="profile for Adrita Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Adrita Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  
+  </p>
 
 # **My Tech Stack** 💻
 
@@ -42,7 +50,6 @@
 - Bootstrap
 - Tailwind
 
-</br>
 
 ## ✔ **DataBase** 
 
