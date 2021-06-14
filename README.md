@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Full-Stack Software Engineer enthusiastic and passionate about coding. I am a self motivated person, love to write codes professionally, as well as a hobby.I    have extensive experience in designing and building highly scalable and stable web applications by implementing REST APIs and interactive UI.   
+    Hello, I'm Full-Stack Software Engineer enthusiastic and passionate about coding. I am a self motivated person, love to write codes professionally, as well as a hobby. I    have extensive experience in designing and building highly scalable and stable web applications by implementing REST APIs and interactive UI.   
  </em>
  </p>
  
